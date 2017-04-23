@@ -2,9 +2,9 @@
 
 namespace ConsoleApp1
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             double a, b, c;
             Console.WriteLine("请输入三角形一边边长");
